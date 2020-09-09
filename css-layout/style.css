@@ -1,0 +1,25 @@
+body {
+  background-color: lavender;
+}
+
+#topNav {
+  background-color: gray;
+}
+
+#sidePanel {
+  background-color: rgb(65, 65, 65);
+}
+
+#sidePanel a {
+  color: white;
+}
+
+#mainPanel {
+  background-color: #eee;
+}
+
+#app {
+  display: grid;
+  grid-template-columns: 15% 80%;
+  grid-gap: 1em;
+}
