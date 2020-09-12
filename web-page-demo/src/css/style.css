@@ -26,6 +26,10 @@ a {
   color: #ccc;
 }
 
+.highlight {
+  color: orange;
+}
+
 /*Section*/
 .section {
   padding: 2rem 0;
