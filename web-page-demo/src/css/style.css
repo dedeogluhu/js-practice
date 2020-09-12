@@ -204,6 +204,25 @@ nav a#openup {
   display: none;
 }
 
+/* Blur effects */
+.blur {
+  transition: filter 0.5s;
+  filter: blur(8px);
+}
+
+.blur:hover {
+  filter: blur(0);
+}
+
+.blur-reverse {
+  transition: filter 0.5s;
+  filter: blur(0);
+}
+
+.blur-reverse:hover {
+  filter: blur(8px);
+}
+
 /*Responsive on small screen*/
 @media screen and (max-width: 580px) {
   .hide-on-small {
