@@ -1,4 +1,4 @@
 # js-docs-tutorial
 
-Just practicing Html, Css, Js 
+Just practising Html, Css, Js 
 Nothing fancy
